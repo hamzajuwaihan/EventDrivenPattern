@@ -1,0 +1,32 @@
+# Visual Studio / .NET related
+.vs/
+*.user
+*.suo
+*.sln.docstates
+bin/
+obj/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Logs
+*.log
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Rider
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other files to ignore
+*.ncrunch*.local.xml
+*.db
+*.pdb
+*.mdb
